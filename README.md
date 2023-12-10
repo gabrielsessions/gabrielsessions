@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Gabriel! 👋
+
+You can check out some of my work on my [portfolio](https://gabrielsessions.github.io/portfolio/). 
+
+A decent number of GitHub repositories are private, so please reach out if you'd like to see some of my hidden projects!
 
 <!--
 **gabrielsessions/gabrielsessions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
